@@ -1,2 +1,2 @@
 # watt_audio
-Music and soundtrack repository for Watt
+This is the music and soundtrack repository for Watt.
